@@ -51,5 +51,8 @@ Thumbs.db
 *.temp
 
 # .txt
-
+github_custom_node_mcp/node_modules/*
+github_custom_node_mcp/node_modules/
+github-enterprise-mcp/node_modules/*
 planning_tab.txt
+github-enterprise-mcp/node_modules/

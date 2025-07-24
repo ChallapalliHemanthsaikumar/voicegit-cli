@@ -1,2 +1,11 @@
 Click>=8.0.0
 PyInstaller>=5.0.0
+langchain-openai
+langgraph
+langchain_mcp_adapters
+colorama>=0.4.6
+langchain_aws
+pillow
+pyautogui
+pywin32
+mss
